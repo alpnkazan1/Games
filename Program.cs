@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using Games;
+
+class Program
+{
+    static void Main()
+    {
+        TicTacToe ticTacToe = new TicTacToe();
+        ticTacToe.Play();
+    }
+}

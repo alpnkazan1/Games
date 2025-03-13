@@ -1,0 +1,15 @@
+/home/derail/Desktop/csharp_test/Games/bin/Debug/net9.0/Games
+/home/derail/Desktop/csharp_test/Games/bin/Debug/net9.0/Games.deps.json
+/home/derail/Desktop/csharp_test/Games/bin/Debug/net9.0/Games.runtimeconfig.json
+/home/derail/Desktop/csharp_test/Games/bin/Debug/net9.0/Games.dll
+/home/derail/Desktop/csharp_test/Games/bin/Debug/net9.0/Games.pdb
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.GeneratedMSBuildEditorConfig.editorconfig
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.AssemblyInfoInputs.cache
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.AssemblyInfo.cs
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.csproj.CoreCompileInputs.cache
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.sourcelink.json
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.dll
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/refint/Games.dll
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.pdb
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/Games.genruntimeconfig.cache
+/home/derail/Desktop/csharp_test/Games/obj/Debug/net9.0/ref/Games.dll
